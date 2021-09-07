@@ -196,6 +196,25 @@ console.log( v );
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dnanmeanwd`][@stdlib/stats/base/dnanmeanwd]: calculate the arithmetic mean of a double-precision floating-point strided array, using Welford's algorithm and ignoring NaN values.
+-   [`@stdlib/stats/base/meanwd`][@stdlib/stats/base/meanwd]: calculate the arithmetic mean of a strided array using Welford's algorithm.
+-   [`@stdlib/stats/base/nanmean`][@stdlib/stats/base/nanmean]: calculate the arithmetic mean of a strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/snanmeanwd`][@stdlib/stats/base/snanmeanwd]: calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using Welford's algorithm.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -257,13 +276,21 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
-[@stdlib/stats/base/dnanmeanwd]: https://github.com/stdlib-js/stats-base-dnanmeanwd
-
-[@stdlib/stats/base/snanmeanwd]: https://github.com/stdlib-js/stats-base-snanmeanwd
-
 [@welford:1962a]: https://doi.org/10.1080/00401706.1962.10490022
 
 [@vanreeken:1968a]: https://doi.org/10.1145/362929.362961
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dnanmeanwd]: https://github.com/stdlib-js/stats-base-dnanmeanwd
+
+[@stdlib/stats/base/meanwd]: https://github.com/stdlib-js/stats-base-meanwd
+
+[@stdlib/stats/base/nanmean]: https://github.com/stdlib-js/stats-base-nanmean
+
+[@stdlib/stats/base/snanmeanwd]: https://github.com/stdlib-js/stats-base-snanmeanwd
+
+<!-- </related-links> -->
 
 </section>
 
