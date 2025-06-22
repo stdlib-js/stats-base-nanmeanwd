@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-12)
+## Unreleased (2025-06-22)
+
+<section class="features">
+
+### Features
+
+-   [`7dfea8b`](https://github.com/stdlib-js/stdlib/commit/7dfea8b772444906be2a1c176bb00ce7d91b7c1e) - refactor and add protocol support to `stats/base/nanmeanwd` [(#6252)](https://github.com/stdlib-js/stdlib/pull/6252)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5658](https://github.com/stdlib-js/stdlib/issues/5658)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`7dfea8b`](https://github.com/stdlib-js/stdlib/commit/7dfea8b772444906be2a1c176bb00ce7d91b7c1e) - **feat:** refactor and add protocol support to `stats/base/nanmeanwd` [(#6252)](https://github.com/stdlib-js/stdlib/pull/6252) _(by Prajjwal Bajpai, Athan Reines, stdlib-bot, Gururaj Gurram)_
 -   [`4132ebf`](https://github.com/stdlib-js/stdlib/commit/4132ebfa530c08ce5c00e0545333c1f8042f5d2d) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`ada2598`](https://github.com/stdlib-js/stdlib/commit/ada259850a8448afa642e2e5cda6b3a8f9a7b785) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`4d373af`](https://github.com/stdlib-js/stdlib/commit/4d373afcaab56ccdd16e81455d3709083a68dec2) - **refactor:** update paths _(by Aayush Khanna)_
@@ -26,10 +49,12 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gururaj Gurram
+-   Prajjwal Bajpai
 
 </section>
 
